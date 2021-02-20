@@ -1,0 +1,97 @@
+body {
+  font-family: "Avenir Next";
+}
+li{
+  list-style:none;
+}
+.header {
+  background-color: black;
+  color: #fff;
+  height: 120px;
+  padding-right:150px;
+  padding-left:50px;
+
+}
+
+.header-logo {
+  padding-top:20px;
+  font-size: 60px;
+  font-family: "Avenir Next";
+}
+
+.copy-container h2 {
+  font-size: 45px;
+}
+.menu-food{
+  font-size:30px;
+}
+
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+  padding-left:30px;
+  padding-bottom: 15px;
+}
+img{
+  height:250px;
+  width:400px;
+}
+.section-title {
+
+  font-size: 28px;
+  padding-bottom: 15px;
+
+}
+
+.contents-item {
+  float: left;
+  margin-right: 40px;
+  font-size:60px;
+  padding-left:30px;
+}
+
+.contents-item p {
+  font-size: 35px;
+  margin-top: 30px;
+}
+
+.contact-form {
+  padding-top: 20px;
+  color:white;
+  background-color:black;
+  padding-left:30px;
+  font-size:20px;
+}
+
+/* Add CSS for <input> and <textarea> tags */
+input, textarea{
+  width:300px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:10px;
+  font-size:24px;
+  border:2px solid black;
+}
+
+.contact-submit{
+  background-color:white;
+  color:black;
+  border:2px solid black;
+}
+
+.footer {
+
+  background-color: black;
+  color:#fff;
+  height: 100px;
+  padding: 20px 40px 40px 40px; 
+  margin-bottom:20px;
+  font-size:25px;
+  font-family: "Avenir Next";
+}
+.footer-list li {
+  float: left;
+  padding: 20px 100px 50px 150px;
+  font-size:20px;
+}
